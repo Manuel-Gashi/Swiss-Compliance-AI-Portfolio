@@ -1,6 +1,6 @@
 # Swiss Compliance AI
 
-> **Portfolio Project by Manny Gashi**
+> **Portfolio Project by Manuel Gashi**
 >
 > GraphRAG-powered regulatory intelligence system demonstrating advanced AI architecture, full-stack engineering, and domain expertise in Swiss financial compliance.
 
