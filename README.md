@@ -221,12 +221,12 @@ Complete portfolio website showcasing the project with hero section, feature hig
 
 ### **What This Project Demonstrates**
 
-✅ **Advanced AI Architecture:** Beyond simple ChatGPT wrappers—real innovation with hybrid GraphRAG
-✅ **Production-Ready Code:** Not a demo—actually deployed and working at scale
-✅ **Full-Stack Expertise:** Backend APIs, frontend UI, databases, deployment
-✅ **Domain Modeling:** Complex legal/regulatory knowledge representation
-✅ **Modern Stack:** Latest tech (Next.js 14, FastAPI, Neo4j, Qdrant)
-✅ **Professional Polish:** Beautiful UI, smooth animations, great UX
+- ✅ **Advanced AI Architecture:** Beyond simple ChatGPT wrappers—real innovation with hybrid GraphRAG
+- ✅ **Production-Ready Code:** Not a demo—actually deployed and working at scale
+- ✅ **Full-Stack Expertise:** Backend APIs, frontend UI, databases, deployment
+- ✅ **Domain Modeling:** Complex legal/regulatory knowledge representation
+- ✅ **Modern Stack:** Latest tech (Next.js 14, FastAPI, Neo4j, Qdrant)
+- ✅ **Professional Polish:** Beautiful UI, smooth animations, great UX
 
 ### **Source Code Access**
 
