@@ -2,7 +2,7 @@
 
 > **Portfolio Project by Manuel Gashi**
 >
-> GraphRAG-powered regulatory intelligence system demonstrating advanced AI architecture, full-stack engineering, and domain expertise in Swiss financial compliance.
+> GraphRAG-powered regulatory intelligence system demonstrating advanced full-stack AI architecture and domain expertise in Swiss financial compliance.
 
 <div align="center">
 
@@ -301,7 +301,7 @@ This project is part of my professional portfolio demonstrating AI architecture 
 
 <div align="center">
 
-**Built to showcase AI, Full-Stack Engineering, and Domain Expertise**
+**Built to showcase AI, Full-Stack Architecture, and Domain Expertise**
 
 *Swiss Compliance AI - Intelligent Regulatory Navigation for Swiss Financial Regulation*
 
